@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-practiceteacherapp-dev-191044-authRole",
+      "UnauthRoleArn": "arn:aws:iam::969497469557:role/amplify-practiceteacherapp-dev-191044-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::969497469557:role/amplify-practiceteacherapp-dev-191044-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-practiceteacherapp-dev-191044-deployment",
+      "UnauthRoleName": "amplify-practiceteacherapp-dev-191044-unauthRole",
+      "StackName": "amplify-practiceteacherapp-dev-191044",
+      "StackId": "arn:aws:cloudformation:eu-west-2:969497469557:stack/amplify-practiceteacherapp-dev-191044/f3dc2c90-17be-11eb-abe7-02c3f93b4566",
+      "AmplifyAppId": "d14bff02kheqme"
+    },
+    "categories": {
+      "auth": {
+        "practiceteacherappc13eaf65": {}
+      }
+    }
+  }
+}
